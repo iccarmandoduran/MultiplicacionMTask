@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Icc Opson\Documents\ADA\MultiplicacionMatrizTask\multiplicacionmatriztask.gpr
+20150930212010
+[BOUND OBJECT FILES]
+C:\Users\Icc Opson\Documents\ADA\MultiplicacionMatrizTask\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Icc Opson\Documents\ADA\MultiplicacionMatrizTask\obj\
+-LC:\Users\Icc Opson\Documents\ADA\MultiplicacionMatrizTask\obj\
+-LC:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/
+-static
+-static-libgcc
+C:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnarl.a
+C:/gnat/2015/lib/gcc/i686-pc-mingw32/4.9.3/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
